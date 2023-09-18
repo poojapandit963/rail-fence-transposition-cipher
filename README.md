@@ -32,33 +32,19 @@ Encryption (Key = 3):
 
 Plaintext: "HELLO"
 Rail Fence Pattern:
-mathematica
-Copy code
 H . . . O
 . E . L .
 . . L . .
 Ciphertext: "HOELLN"
 Decryption (Key = 3):
-
 Ciphertext: "HOELLN"
 Rail Fence Pattern (marked):
-markdown
-Copy code
 H * * * O
 * E * L *
 * * L * *
 Rail Fence Pattern (filled):
-mathematica
-Copy code
 H . . . O
 . E . L .
 . . L . .
 Plaintext: "HELLO"
-The Rail Fence Cipher is relatively easy to understand and implement, but it may not provide strong security for modern cryptographic purposes and is more of a historical or educational cipher.
 
-
-
-
-
-
-Regenerate
